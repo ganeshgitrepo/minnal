@@ -1,9 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<artifactId>minnal-admin</artifactId>
-	<name>Minnal Admin</name>
-	<description>Admin application for minnal</description>
+	<artifactId>minnal-jpa</artifactId>
+	<name>minnal-jpa</name>
 
 	<parent>
 		<artifactId>minnal</artifactId>
@@ -13,9 +12,16 @@
 	
 	<dependencies>
 		<dependency>
+			<groupId>org.activejpa</groupId>
+			<artifactId>activejpa-core</artifactId>
+		</dependency>
+		<dependency>
 			<groupId>org.minnal</groupId>
 			<artifactId>minnal-core</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.jolbox</groupId>
+			<artifactId>bonecp</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.testng</groupId>
@@ -27,18 +33,45 @@
 			<artifactId>mockito-all</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.datatype</groupId>
+			<artifactId>jackson-datatype-hibernate4</artifactId>
+			<optional>true</optional>
+		</dependency>
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
+				<groupId>org.activejpa</groupId>
+				<artifactId>activejpa-core</artifactId>
+				<version>0.0.3</version>
+			</dependency>
+			<dependency>
+				<groupId>org.minnal</groupId>
+				<artifactId>minnal-core</artifactId>
+				<version>0.0.1-SNAPSHOT</version>
+			</dependency>
+			<dependency>
+				<groupId>com.jolbox</groupId>
+				<artifactId>bonecp</artifactId>
+				<version>0.8.0-rc1</version>
+			</dependency>
+			<dependency>
 				<groupId>org.testng</groupId>
 				<artifactId>testng</artifactId>
 				<version>6.8.5</version>
+				<scope>test</scope>
 			</dependency>
 			<dependency>
 				<groupId>org.mockito</groupId>
 				<artifactId>mockito-all</artifactId>
 				<version>1.9.5</version>
+				<scope>test</scope>
+			</dependency>
+			<dependency>
+				<groupId>com.fasterxml.jackson.datatype</groupId>
+				<artifactId>jackson-datatype-hibernate4</artifactId>
+				<version>2.2.1</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>

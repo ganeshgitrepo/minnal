@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>org.minnal</groupId>
-  <artifactId>minnal-admin</artifactId>
+  <artifactId>minnal-jpa</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130605.075646</timestamp>
+      <timestamp>20130605.075659</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20130605075646</lastUpdated>
+    <lastUpdated>20130605075659</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20130605.075646-1</value>
-        <updated>20130605075646</updated>
+        <value>0.0.1-20130605.075659-1</value>
+        <updated>20130605075659</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20130605.075646-1</value>
-        <updated>20130605075646</updated>
+        <value>0.0.1-20130605.075659-1</value>
+        <updated>20130605075659</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
