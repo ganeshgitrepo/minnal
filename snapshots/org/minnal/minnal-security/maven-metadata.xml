@@ -4,8 +4,8 @@
   <artifactId>minnal-security</artifactId>
   <versioning>
     <versions>
-      <version>0.0.1-SNAPSHOT</version>
+      <version>0.9.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130617070451</lastUpdated>
+    <lastUpdated>20130617184729</lastUpdated>
   </versioning>
 </metadata>
