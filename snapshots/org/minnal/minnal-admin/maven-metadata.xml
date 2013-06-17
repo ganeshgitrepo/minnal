@@ -4,8 +4,8 @@
   <artifactId>minnal-admin</artifactId>
   <versioning>
     <versions>
-      <version>0.0.1-SNAPSHOT</version>
+      <version>0.9.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130617070219</lastUpdated>
+    <lastUpdated>20130617184327</lastUpdated>
   </versioning>
 </metadata>
