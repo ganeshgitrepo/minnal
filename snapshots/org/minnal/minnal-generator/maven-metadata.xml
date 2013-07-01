@@ -4,8 +4,8 @@
   <artifactId>minnal-generator</artifactId>
   <versioning>
     <versions>
-      <version>0.9.1-SNAPSHOT</version>
+      <version>0.9.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130628191534</lastUpdated>
+    <lastUpdated>20130701070527</lastUpdated>
   </versioning>
 </metadata>
