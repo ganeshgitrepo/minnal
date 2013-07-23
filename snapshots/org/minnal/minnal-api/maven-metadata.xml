@@ -4,8 +4,8 @@
   <artifactId>minnal-api</artifactId>
   <versioning>
     <versions>
-      <version>0.9.3-SNAPSHOT</version>
+      <version>0.9.4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130723054115</lastUpdated>
+    <lastUpdated>20130723074254</lastUpdated>
   </versioning>
 </metadata>
