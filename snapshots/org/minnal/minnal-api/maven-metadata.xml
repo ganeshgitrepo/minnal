@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.minnal</groupId>
+  <artifactId>minnal-api</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130727105139</lastUpdated>
+  </versioning>
+</metadata>
