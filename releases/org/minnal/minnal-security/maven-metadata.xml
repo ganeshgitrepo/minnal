@@ -3,10 +3,10 @@
   <groupId>org.minnal</groupId>
   <artifactId>minnal-security</artifactId>
   <versioning>
-    <release>0.9.3</release>
+    <release>0.9.4</release>
     <versions>
-      <version>0.9.3</version>
+      <version>0.9.4</version>
     </versions>
-    <lastUpdated>20130723073922</lastUpdated>
+    <lastUpdated>20130727074136</lastUpdated>
   </versioning>
 </metadata>
