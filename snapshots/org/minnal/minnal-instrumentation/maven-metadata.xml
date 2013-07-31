@@ -4,8 +4,8 @@
   <artifactId>minnal-instrumentation</artifactId>
   <versioning>
     <versions>
-      <version>0.9.5-SNAPSHOT</version>
+      <version>0.9.6-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130727105029</lastUpdated>
+    <lastUpdated>20130731072813</lastUpdated>
   </versioning>
 </metadata>
