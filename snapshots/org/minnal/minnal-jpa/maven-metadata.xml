@@ -4,8 +4,8 @@
   <artifactId>minnal-jpa</artifactId>
   <versioning>
     <versions>
-      <version>0.9.5-SNAPSHOT</version>
+      <version>0.9.6-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130727105006</lastUpdated>
+    <lastUpdated>20130731072749</lastUpdated>
   </versioning>
 </metadata>
