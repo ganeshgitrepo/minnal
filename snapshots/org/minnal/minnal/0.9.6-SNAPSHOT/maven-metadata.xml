@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.minnal</groupId>
+  <artifactId>minnal</artifactId>
+  <version>0.9.6-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130731.072632</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130731072632</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.9.6-20130731.072632-1</value>
+        <updated>20130731072632</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
