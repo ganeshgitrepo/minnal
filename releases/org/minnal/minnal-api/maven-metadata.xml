@@ -3,10 +3,10 @@
   <groupId>org.minnal</groupId>
   <artifactId>minnal-api</artifactId>
   <versioning>
-    <release>0.9.8</release>
+    <release>0.9.9</release>
     <versions>
-      <version>0.9.8</version>
+      <version>0.9.9</version>
     </versions>
-    <lastUpdated>20130827062523</lastUpdated>
+    <lastUpdated>20130828034311</lastUpdated>
   </versioning>
 </metadata>
